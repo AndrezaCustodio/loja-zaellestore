@@ -1,0 +1,28 @@
+.body {
+    font: 20px, verdana, sans-serif;
+}
+
+.navbar {
+    background-color: #fde8e2;
+}
+.img    {
+    border-radius: 50%;
+}
+.frase {
+    background-color: #640e23;
+    color:  #fde8e2
+}
+.margin {
+    padding-top: 30px;
+}
+.palavras {
+    color: #640e23;
+}
+.imagem-feliz {
+    border-radius: 50%;
+}
+.bg-footer {
+    background-color: black;
+    color: white;
+
+}
